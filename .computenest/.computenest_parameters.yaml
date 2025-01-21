@@ -1,0 +1,12 @@
+AdvancedOptions: false
+RuntimeType: Container
+DockerFilePath: Dockerfile
+ServiceType: private
+ArtifactSourceType: Dockerfile
+ServiceBuildRegion: ap-southeast-1
+RepoName: workhardliuzheng/vue-color-avatar
+RegionId: cn-hangzhou
+CustomParameters: ''
+Owner: workhardliuzheng
+Branch: main
+Platform: github
